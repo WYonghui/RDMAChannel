@@ -1,0 +1,5 @@
+disni/target/*
+rdmachannel-benchmark/target/*
+rdmachannel-core/target/*
+rdmachannel-example/target/*
+rdmachannel-multicast/target/*

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="disni" />
+        <module name="rdmachannel-benchmark" />
+        <module name="rdmachannel-core" />
+        <module name="rdmachannel-example" />
+        <module name="rdmachannel-multicast" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
